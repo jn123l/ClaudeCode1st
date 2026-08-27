@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", sans-serif;
+  --color-brand: #2854fe;
+  --color-brand-line: #4784ff;
+  --color-brand-muted: rgba(255, 255, 255, 0.7);
+}
+
+html,
+body {
+  background-color: #2854fe;
+}
